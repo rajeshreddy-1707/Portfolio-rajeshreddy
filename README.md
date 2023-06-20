@@ -8,6 +8,7 @@ Skills
 Projects
 Experience
 Contact
+
 ## Introduction
 I'm excited to share my portfolio with you! I am a passionate developer with a diverse background and a strong drive for creating innovative solutions. Through this portfolio, I aim to demonstrate my skills, highlight my projects, and provide insights into my professional journey.
 
