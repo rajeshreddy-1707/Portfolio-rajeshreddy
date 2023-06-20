@@ -3,11 +3,11 @@
 Welcome to my portfolio repository on GitHub! This README serves as an introduction to my portfolio, where I showcase my projects, highlight my skills, and provide information about how to contact me.
 
 ## Table of Contents
-Introduction
-Skills
-Projects
-Experience
-Contact
+1. Introduction
+2. Skills
+3. Projects
+4. Experience
+5. Contact
 
 ## Introduction
 I'm excited to share my portfolio with you! I am a passionate developer with a diverse background and a strong drive for creating innovative solutions. Through this portfolio, I aim to demonstrate my skills, highlight my projects, and provide insights into my professional journey.
