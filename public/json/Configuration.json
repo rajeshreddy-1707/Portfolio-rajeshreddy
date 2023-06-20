@@ -1,0 +1,305 @@
+{
+  "tabTitle": "My Portfolio",
+  "imagesPreload": [
+    "me-about.png",
+    "me.png",
+    "avatar1.jpg",
+    "avatar2.jpg",
+    "avatar3.jpg",
+    "avatar4.jpg",
+    "portfolio1.jpg",
+    "portfolio2.jpg",
+    "portfolio3.jpg",
+    "portfolio4.jpg",
+    "portfolio5.png",
+    "portfolio6.jpg"
+  ],
+  "socials": [
+    {
+      "iconName": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mvn-rajesh-reddy/"
+    },
+    {
+      "iconName": "GitHub",
+      "url": "https://github.com/rajeshreddy-1707"
+    },
+    {
+      "iconName": "Instagram",
+      "url": "https://www.instagram.com/rajeshreddy_1707/"
+    },
+    {
+      "iconName": "WhatsApp",
+      "url": "https://wa.me/+919014984510"
+    },
+    {
+      "iconName": "Email",
+      "url": "mailto:mvn.rajeshreddy@gmail.com"
+    }
+  ],
+  "navigation": {
+    "links": [
+      {
+        "id": "home",
+        "title": "Home",
+        "iconName": "HomeOutlined"
+      },
+      {
+        "id": "about",
+        "title": "About",
+        "iconName": "PersonOutlineOutlined"
+      },
+      {
+        "id": "skills",
+        "title": "Skills",
+        "iconName": "LibraryBooksOutlined"
+      },
+      {
+        "id": "timeline",
+        "title": "My Journey",
+        "iconName": "ViewTimelineOutlined"
+      },
+      {
+        "id": "portfolio",
+        "title": "Portfolio",
+        "iconName": "WorkHistoryOutlined"
+      },
+      {
+        "id": "contact",
+        "title": "Contact",
+        "iconName": "ContactMailOutlined"
+      }
+    ]
+  },
+  "header": {
+    "id": "home",
+    "header": "Hello I am",
+    "title": "MVN Rajesh Reddy",
+    "subTitle": "Data Scientist & AI and ML Enthusiast",
+    "downloadCVBtn": {
+      "title": "My Resume",
+      "url": "https://drive.google.com/file/d/13NAtt8m1hz_kOZIGi1lwX9HqMln1tOlj/view?usp=drive_link"
+    },
+    "letsTalkBtn": { "title": "Let's Talk", "link": "contact" },
+    "headerImage": "me.png"
+  },
+  "about": {
+    "id": "about",
+    "title": "About Me",
+    "aboutImage": "me-about.png",
+    "aboutCards": [
+    ],
+    "aboutDescriptions": "I am MVN Rajesh Reddy, a proficient individual deeply passionate about Artificial Intelligence and Machine Learning. Throughout my journey, I have achieved noteworthy milestones, which have shaped me into a versatile professional. With a unique blend of creativity, expertise, and dedication, I consistently exceed expectations and drive success. My strength lies in teamwork, creativity, problem solving, curiosity in learning and time management setting me apart and enabling me to thrive in various projects and endeavors. Continual growth and innovation fuel my aspirations, and I am eager to embrace new challenges with enthusiasm and professionalism."},
+  "skills": {
+    "id": "skills",
+    "title": "My Skills",
+    "skillsCards": [
+      {
+        "iconName": "SiPython",
+        "title": "Python",
+        "progress": "Intermediate"
+      },
+      {
+        "iconName": "SiJameson",
+        "title": "Java",
+        "progress": "Intermediate"
+      },
+      {
+        "iconName": "SiMysql",
+        "title": "MySQL",
+        "progress": "Intermediate"
+      },
+      {
+        "iconName": "SiMicrosoftexcel",
+        "title": "MS Excel",
+        "progress": "Intermediate"
+      },
+      {
+        "iconName": "SiTableau",
+        "title": "Tableau",
+        "progress": "Beginner"
+      }
+    ]
+  },
+  "timeline": {
+    "id": "timeline",
+    "title": "Education",
+    "timelineCards": [
+      {
+        "date": "Class X",
+        "title": " Educational Institution :  Kendriya Vidyalaya No-2, EME, Vadodara" ,
+        "title3": " Board : CBSE" ,
+        "title1" : "Tenure : 2017-18",
+        "title2" : "Percentage : 90%"
+      },
+      {
+        "date": "Class XII",
+        "title": "Educational Institution : FIITJEE Junior College, Hyderabad",
+        "title3": " Board : TSBIE" ,
+        "title1" : "Tenure : 2018-20",
+        "title2" : "Percentage : 88.88%"
+      },
+      {
+        "date": "UG - B. Tech (CSE - AI & ML)",
+        "title": "Educational Institution : Vellore Institute of Technology, Bhopal",
+        "title3": " Board : VIT University" ,
+        "title1" : "Tenure : 2020-Present",
+        "title2" : "CGPA : 8.61"
+      }
+    ]
+  },
+  "portfolio": {
+    "id": "portfolio",
+    "title": "Projects",
+    "portfolioCards": [
+      {
+        "image": "portfolio1.jpg",
+        "title": "Symbiote",
+        "description": "This project deals with detection of the lost things, it was innovative and helped in eliminating the number of epochs for searching the objects.",
+        "buttons": [
+          {
+            "title": "GitHub",
+            "url": "https://github.com/rajeshreddy-1707/Symbiote"
+          }
+        ]
+      },
+      {
+        "image": "portfolio2.jpg",
+        "title": "JobEzy",
+        "description": "This project involves conducting a comprehensive analysis of the job market, including employment trends, skill requirements, and salary data.",
+        "buttons": [
+          {
+            "title": "GitHub",
+            "url": "https://github.com/rajeshreddy-1707/JobEzy"
+          }
+        ]
+      },
+      {
+        "image": "portfolio3.jpg",
+        "title": "PicZap",
+        "description": "It deals with everything related to images - watermarking, removing watermark, and every innovation related to images such as cropping image, resizing image, etc.",
+        "buttons": [
+          {
+            "title": "GitHub",
+            "url": "https://github.com/rajeshreddy-1707/PicZap"
+          }
+        ]
+      },
+      {
+        "image": "portfolio4.jpg",
+        "title": "Online Flight Booking System",
+        "description": "It allows users to book flight tickets online. Commuters need to creating an account. The system provides information on available flights and venues based on the specified date and location.",
+        "buttons": [
+          {
+            "title": "GitHub",
+            "url": "https://github.com/rajeshreddy-1707/Flight-Booking-System"
+          }
+        ]
+      },
+      {
+        "image": "portfolio5.png",
+        "title": "Handwritten Digit Recognition",
+        "description": "It is aimed at developing an accurate solution for recognizing handwritten text. This system utilizes advanced machine learning techniques and neural network models to interpret handwritten input.",
+        "buttons": [
+          {
+            "title": "GitHub",
+            "url": "https://github.com/rajeshreddy-1707/Handwritten-Number-Prediction"
+          }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "id": "testimonials",
+    "title": "Experience",
+    "testimonialsCards": [
+      {
+        "image": "avatar1.jpg",
+        "title": "Data Science Intern at Suvidha Mahila Mandal Foundation ",
+        "description": "Worked on a project: Feature Alignment Discriminator for Abstractive Text Summarization. Involved in utilizing data to provide valuable insights that help improve the organization's operations and decision-making processes. Helped the organization to raise some funds for providing education to poor girl children."
+      },
+      {
+        "image": "avatar2.jpg",
+        "title": "Campus Ambassador at Skill Vertex",
+        "description": "Promotions of the schemes and courses in the campus. My role was to increase awareness of the initiative in my university, at a time that suits my schedule. These courses helped in the overall development of skills in the student in a period of 3 months."
+      },
+      {
+        "image": "avatar3.jpg",
+        "title": "Head of Event Management Department in High School",
+        "description": "As the Head of the Event Management Department, my role encompassed overseeing every aspect of planning, organizing, and executing successful events. With a strategic vision, I led a team to ensure flawless event experiences, efficient budget management, seamless vendor coordination, and utmost client satisfaction. I managed several events like the Sports Day, Annual Day, etc."},
+      {
+        "image": "avatar4.jpg",
+        "title": "Discipline Chief in High School",
+        "description": "As the Discipline Chief, I provided strategic leadership and guidance within a specific field or department. With my expertise and experience, I established and enforced standards, drove innovation, fostered collaboration, and ensured the achievement of goals. I oversaw the development of talent and maintained excellence within our discipline."}
+    ]
+  },
+  "contact": {
+    "id": "contact",
+    "title": "Contact Me",
+    "mailSubject": "Contact Me Portfolio",
+    "emailKey": "{Your email key if there}",
+    "contactCards": [
+      {
+        "iconName": "Email",
+        "title": "Email",
+        "description": "mvn.rajeshreddy@gmail.com",
+        "link": { "url": "mailto:mvn.rajeshreddy@gmail.com", "title": "Send a message" }
+      },
+      {
+        "iconName": "WhatsApp",
+        "title": "WhatsApp",
+        "description": "+91 9014984510",
+        "link": { "url": "https://wa.me/+919014984510", "title": "Send a message" }
+      }
+    ],
+    "contactForm": [
+      {
+        "type": "text",
+        "placeholder": "Your Full Name"
+      },
+      {
+        "type": "email",
+        "placeholder": "Your Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Your Message"
+      }
+    ],
+    "submitBtn": "Send Message"
+  },
+  "footer": {
+    "id": "footer",
+    "header": "MVN Rajesh Reddy",
+    "links": [
+      {
+        "id": "home",
+        "title": "Home"
+      },
+      {
+        "id": "about",
+        "title": "About"
+      },
+      {
+        "id": "skills",
+        "title": "Skills"
+      },
+      {
+        "id": "timeline",
+        "title": "Education"
+      },
+      {
+        "id": "portfolio",
+        "title": "Projects"
+      },
+      {
+        "id": "testimonials",
+        "title": "Experience"
+      },
+      {
+        "id": "contact",
+        "title": "Contact"
+      }
+    ],
+    "copyright": "MVN Rajesh Reddy - All rights reserved"
+  }
+}
